@@ -1,11 +1,13 @@
 header {
-    background: white;
+    background-color: #FFFFFF;
+    background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+    background-position: 20px 50%;
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
 }
-header .logo {
-    background: url("../images/logo.png") no-repeat;
-    left: 20px;
-    height: 100%;
+
+.available {
+    background-color: #FF545F;
 }
